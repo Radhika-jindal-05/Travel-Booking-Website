@@ -26,6 +26,6 @@ It allows users to explore destinations, view travel videos, and make online boo
 
 ---
 
-## 📁 Folder Structure
+
 
 
