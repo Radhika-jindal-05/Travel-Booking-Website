@@ -26,18 +26,19 @@ It allows users to explore destinations, view travel videos, and make online boo
 
 ---
 
-##🙌 Credits
+## 🙌 Credits
 
-Created by Radhika Jindal ✨
+Created by **Radhika Jindal** ✨  
 For learning and showcasing front-end web development skills.
 
 ---
 
-##📢 Future Enhancements
+## 📢 Future Enhancements
 
--Add backend support for booking confirmation
--Integrate with real APIs for destinations and hotels
--Add user authentication (Login/Signup)
+- Add backend support for booking confirmation  
+- Integrate with real APIs for destinations and hotels  
+- Add user authentication (Login/Signup)
+
 
 
 
