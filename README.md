@@ -39,6 +39,11 @@ For learning and showcasing front-end web development skills.
 - Integrate with real APIs for destinations and hotels  
 - Add user authentication (Login/Signup)
 
+<img width="1919" height="1114" alt="image" src="https://github.com/user-attachments/assets/5b4d1862-68cb-4a7a-9d21-a4859fb98dff" />
+
+<img width="1919" height="1138" alt="Screenshot 2026-03-27 225759" src="https://github.com/user-attachments/assets/14c1f29c-6c58-4dc1-997e-24478c42c704" />
+
+
 
 
 
